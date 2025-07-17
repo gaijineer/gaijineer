@@ -4,8 +4,8 @@ I love tech. Here's my stack in order from low to high.
 - ASM
 - C
 - JS ES11+ / PHP
-- HTML / CSS
 - React
+- HTML / CSS
 - Power Apps / PowerAutomate
 - Photoshop / Illustrator
 - Cameras
