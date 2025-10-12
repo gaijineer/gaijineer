@@ -10,7 +10,6 @@ Every day I learn something new. The more I learn, the more I discover unknowns.
 - Photoshop
 
 ## I am comfortable with...
--  Go
 -  PHP
 -  Power Apps
 -  Illustrator
