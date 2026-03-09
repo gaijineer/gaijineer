@@ -1,7 +1,7 @@
 ## Hi there (´・ω・`)ノ
 I have passion for tech.
 Every day I learn something new.
-The more I learn, the more I discover unknowns.
+The more I learn, the more I discover what I don't know.
 
 ## I am best at...
 - JS ES16+ (Node/Deno, React)
